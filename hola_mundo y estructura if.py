@@ -1,4 +1,3 @@
-print("¡Hola, Mundo!")
 
 #If - Else
 
